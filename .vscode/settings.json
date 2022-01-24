@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "utils.h": "c",
+        "lda-data.h": "c",
+        "cokus.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
