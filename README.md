@@ -8,4 +8,6 @@ Commands that we used:
 
 python topics.py lda-c-dist/final.beta vocab.dat 100
 
+Disclaimer: All the code provided in this repository is not mine. It's Mr.Blie's.
+
 
